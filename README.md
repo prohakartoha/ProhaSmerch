@@ -1,0 +1,1 @@
+History of this virus creation: Nov 8, 2023 I made this virus, I was just starting to learn C++ and so I was embarrassed to post it, but now I want to post it so that it stays here. Thanks to my friend for rewriting the code from the video.
